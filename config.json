@@ -1,0 +1,21 @@
+{
+  "favorites": [
+    {
+      "path": "C:\\Repos\\EAGLE",
+      "type": "eagle"
+    },
+    {
+      "path": "C:\\Repos\\my_github_committer",
+      "type": "generic"
+    },
+    {
+      "path": "C:\\Repos\\miniPCB",
+      "type": "generic"
+    },
+    {
+      "path": "C:\\Repos\\gitgpt",
+      "type": "generic"
+    }
+  ],
+  "openai_model": "gpt-4o"
+}
