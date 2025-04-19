@@ -1,5 +1,5 @@
 [project]
-name = "gitgpt"
+name = "another-gitgpt"
 version = "0.1.0"
 description = "AI-powered Git commit assistant using GPT and git diff"
 readme = "README.md"
