@@ -1,0 +1,7 @@
+Write a Git commit message for `{filename}` based on this diff:
+
+--- BEGIN DIFF ---
+{diff}
+--- END DIFF ---
+
+{context}
