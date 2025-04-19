@@ -23,8 +23,8 @@ GitGPT is a Python CLI tool that uses OpenAI's GPT models to generate meaningful
 ### 1. Clone and install locally
 
 ```bash
-git clone https://github.com/miniPCB/my_github_committer.git
-cd my_github_committer
+git clone https://github.com/miniPCB/gitgpt.git
+cd gitgpt
 pip install .
 ```
 
