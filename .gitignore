@@ -17,3 +17,7 @@ __pycache__/
 
 # API Key file
 secrets.json
+
+# Microsoft files
+~$*.docx
+*.tmp
