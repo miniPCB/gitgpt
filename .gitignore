@@ -1,0 +1,19 @@
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# API Key file
+secrets.json
