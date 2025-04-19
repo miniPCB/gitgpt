@@ -1,21 +1,21 @@
 {
   "favorites": [
     {
-      "path": "C:\\Repos\\EAGLE",
-      "type": "eagle"
-    },
-    {
-      "path": "C:\\Repos\\my_github_committer",
-      "type": "generic"
-    },
-    {
-      "path": "C:\\Repos\\miniPCB",
-      "type": "generic"
-    },
-    {
       "path": "C:\\Repos\\gitgpt",
       "type": "generic"
     }
   ],
-  "openai_model": "gpt-4o"
+  "openai_model": "gpt-4o",
+  "repo_types": {
+    "eagle": "This is an EAGLE PCB design repository. Generate a concise commit message based on schematic updates, board layout changes, or regenerated Gerber files.",
+    "generic": "This is a general-purpose code or documentation repository. Generate a commit message based on the diff, focusing on what was added, removed, or updated.",
+    "firmware": "This is a firmware repository for embedded systems. Generate a commit message based on source code updates, configuration changes, or device-specific logic modifications.",
+    "docs": "This is a documentation repository. Generate a clear commit message that describes edits to markdown files, content structure, or instructional material.",
+    "website": "This is a web development project. Generate a commit message for HTML, CSS, JavaScript, or framework-based updates (e.g., React, Vue, Django).",
+    "cli": "This is a command-line application project. Generate a commit message reflecting improvements to CLI functionality, flags, I/O handling, or user feedback.",
+    "data": "This is a data-focused repository. Generate a commit message for changes to datasets, data processing scripts, or analysis results.",
+    "api": "This is an API or backend project. Generate a commit message describing changes to routes, controllers, models, or service logic.",
+    "desktop": "This is a desktop application project. Generate a commit message for UI changes, feature additions, or performance improvements in desktop software.",
+    "testing": "This is a test suite or QA automation project. Generate a commit message describing new tests, assertions, coverage improvements, or bug reproductions."
+  }
 }
