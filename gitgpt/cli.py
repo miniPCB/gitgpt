@@ -447,8 +447,8 @@ def interactive_commit_flow():
             command_map[cmd]()
             return
         else:
-            print(f"❓ Unknown command: {cmd}")
             show_help_banner()
+            print(f"❓ Unknown command: {cmd}")
             return
 
     # 🧭 Default interactive flow
