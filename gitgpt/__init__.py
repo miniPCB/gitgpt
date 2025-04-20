@@ -9,4 +9,4 @@ Exposed modules:
 - core: Shared logic for file scanning, GPT messaging, and Git operations
 """
 
-__version__ = "0.1.1"
+__version__ = "0.1.3"

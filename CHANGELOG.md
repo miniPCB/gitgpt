@@ -58,3 +58,4 @@ All notable changes to **GitGPT** will be documented in this file.
 - 📝 `CHANGELOG.md` updated automatically with `bump_version.py`
 - 📤 Upgrade logs saved to `~/gitgpt_upgrade_log.txt`
 
+## [0.1.3] - 2025-04-19
