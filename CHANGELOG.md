@@ -61,3 +61,5 @@ All notable changes to **GitGPT** will be documented in this file.
 ## [0.1.3] - 2025-04-19
 
 ## [0.1.4] - 2025-04-19
+
+## [0.1.6] - 2025-04-19
