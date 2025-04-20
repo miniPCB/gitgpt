@@ -11,6 +11,10 @@
     {
       "path": "C:\\Repos\\submodule_manager",
       "type": "generic"
+    },
+    {
+      "path": "C:\\Repos\\another-gitgpt",
+      "type": "generic"
     }
   ],
   "openai_model": "gpt-4o",
