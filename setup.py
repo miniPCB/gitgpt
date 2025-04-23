@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="gitgpt",
-    version="0.1.0",
+    version="0.1.5",
     description="AI-powered Git commit assistant using GPT and git diff",
     author="Nolan Manteufel",
     packages=find_packages(),
